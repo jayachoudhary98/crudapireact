@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Leanne Graham",
+      "lastName": "Bret",
+      "age": "20",
+      "email": "Sincere@april.biz",
+      "contact": "8839421651",
+      "address": "Kulas Light"
+    },
+    {
+      "id": 2,
+      "firstName": "shyam Graham",
+      "lastName": "yadav",
+      "age": "27",
+      "email": "devae@april.biz",
+      "contact": "7739421651",
+      "address": "ngdfdnghorough"
+    },
+    {
+      "id": 3,
+      "firstName": "kumer Graham",
+      "lastName": "hopo",
+      "age": "26",
+      "email": "chotuure@april.biz",
+      "contact": "9939421651",
+      "address": "japenes"
+    },
+    {
+      "id": 4,
+      "firstName": "shivani Graham",
+      "lastName": "pret",
+      "age": "24",
+      "email": "Shhncere@april.biz",
+      "contact": "8839421691",
+      "address": "Revenur Light"
+    },
+    {
+      "firstName": "jaya",
+      "lastName": "Choudhary ",
+      "age": "24",
+      "email": "jayachoudhary9039@gmail.com",
+      "contact": "8839421651",
+      "address": "reve",
+      "id": 13
+    },
+    {
+      "firstName": "barkha",
+      "lastName": "sharma",
+      "age": "22",
+      "email": "B12@gmail.com",
+      "contact": "23678888",
+      "address": "kalani nagar",
+      "id": 14
+    },
+    {
+      "firstName": "bmbm",
+      "lastName": "cchoudhan",
+      "age": "38",
+      "email": "hg@gmail.com",
+      "contact": "4651244545",
+      "address": "sxdcfvghn",
+      "id": 15
+    },
+    {
+      "firstName": "nvv",
+      "lastName": "seetrhrbth",
+      "age": "14",
+      "email": "jayachoudhary9039@gmail.com",
+      "contact": "8839421651",
+      "address": "remember ",
+      "id": 16
+    },
+    {
+      "firstName": "hnz",
+      "lastName": "sssdd",
+      "age": "czzc",
+      "email": "jayachoudhary9039@gmail.com ",
+      "contact": "4444444444444444444",
+      "address": "wearfa",
+      "id": 17
+    },
+    {
+      "firstName": "jaya",
+      "lastName": "choi",
+      "age": "13",
+      "email": "j@13gmail.com",
+      "contact": "777777777",
+      "address": "revenue",
+      "id": 18
+    },
+    {
+      "firstName": "gggggggg",
+      "lastName": "gggggggg",
+      "age": "gggggggg",
+      "email": "gggggggg",
+      "contact": "gggggggg",
+      "address": "gggggggg",
+      "id": 20
+    }
+  ]
+}
